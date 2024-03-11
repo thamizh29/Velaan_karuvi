@@ -1,0 +1,103 @@
+.hire-bg{
+    margin-top: 60px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("/home/thamizharasan/FER_sys_project/fer_sys/Image/BG-3.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 810px;
+    width: 1920px;
+}
+.hire-grp{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+.hire-tra{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.tra-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/tractor-4.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.hire-mtr{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    position: relative;
+    left:50px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.mtr-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/mini-tra-1.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.hire-har{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    position: relative;
+    left:100px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.har-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/harvaster.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.hire-pwt{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    position: relative;
+    left:150px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.pwt-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/powertiller.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.hire-spr{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    position: relative;
+    left:200px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.spr-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/sprayer.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+
+}

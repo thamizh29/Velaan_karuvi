@@ -1,0 +1,65 @@
+.har-bg{
+    margin-top: 60px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url("/home/thamizharasan/FER_sys_project/fer_sys/Image/BG-3.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 810px;
+    width: 1920px;
+}
+.har-grp{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+.har-pad{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.pad-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/paddy-1.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.har-cor{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    position: relative;
+    left:50px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.cor-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/corn-2.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.har-sug{
+    background-color:white;
+    height: 200px;
+    width:200px;
+    position: relative;
+    left:100px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.sug-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/sugarcan-2.jpeg");
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}

@@ -1,0 +1,36 @@
+.i-grp{
+    margin-top: 158px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url("/home/thamizharasan/FER_sys_project/fer_sys/Image/BG-3.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 810px;
+    width: 1920px;
+}
+.i-container{
+    background-color:aqua;
+    height: 600px;
+    width: 800px;
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    left:150px;
+    opacity: 0.3;
+}
+.uname{
+    position:absolute;   
+    top: 450px;
+    left: 400px;
+    
+}
+.gmail{
+    position:absolute;   
+    top: 550px;
+    left: 400px;
+}
+input{
+    height: 50px;
+    width:300px;
+    padding-left: 30px;
+}

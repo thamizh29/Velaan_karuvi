@@ -1,0 +1,43 @@
+.h-grp{
+    margin-top: 60px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url("/home/thamizharasan/FER_sys_project/fer_sys/Image/BG-3.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 810px;
+    width: 1920px;
+}
+.btn-ha{
+    background-color: aqua;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    padding-top: 20px;
+    position:relative;
+    text-align: center;
+    top:150px;
+    left: 220px;
+}
+.btn-hi{
+    background-color:rgb(3, 250, 155) ;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    padding-top: 20px;
+    position:relative;
+    text-align: center;
+    top:80px;
+    left:500px;
+}
+.h-img{
+    background-image: url("/home/thamizharasan/FER_sys_project/fer_sys/Image/logo.png");
+    height: 145px;
+    width: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}

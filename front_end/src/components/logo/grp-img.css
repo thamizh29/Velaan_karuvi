@@ -1,0 +1,17 @@
+.g-container-2{
+    transform: skew(20deg);
+    height: 810px;
+    width: 870px;
+    background-color: white;
+    position: absolute;
+    right:70px;
+}
+.g-container-1{
+    height: 810px;
+    width: 800px;
+    background-image:url(/home/thamizharasan/FER_sys_project/fer_sys/Image/grp_bg.png);
+    position: absolute;
+    border-radius: 100%;
+    right:100px;
+}
+
