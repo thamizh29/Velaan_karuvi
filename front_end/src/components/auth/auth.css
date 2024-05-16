@@ -1,0 +1,33 @@
+.auth-bg{
+    margin-top: 160px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url("/home/thamizharasan/FER_sys_project/fer_sys/Image/BG-3.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 810px;
+    width: 1920px;
+}
+.auth-btn-up{
+    height: 30px;
+    width:100px;
+    padding: 20px;
+    background-color:white;
+    position: relative;
+    top: 300px;
+    left: 230px;
+    text-align: center;
+    border-radius: 10px;
+}
+.auth-btn-in{
+    height: 30px;
+    width:100px;
+    padding: 18px;
+    border: solid;
+    border-color: white;
+    position: relative;
+    top: 230px;
+    left: 420px;
+    text-align: center;
+    border-radius: 10px;
+}

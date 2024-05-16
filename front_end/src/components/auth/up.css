@@ -9,28 +9,44 @@
     width: 1920px;
 }
 .u-container{
-    background-color:aqua;
+    border: solid;
+    border-color: white;
     height: 600px;
-    width: 800px;
+    width: 500px;
     border-radius: 10px;
     position: relative;
     top: 100px;
     left:150px;
-    opacity: 0.3;
+    opacity: 0.7;
 }
-/* .uname{
+.u-pass{
     position:absolute;   
-    top: 450px;
-    left: 400px;
+    top: 620px;
+    left: 230px;
     
 }
-.gmail{
+.u-gmail{
     position:absolute;   
-    top: 550px;
-    left: 400px;
+    top: 420px;
+    left: 230px;
+}
+.u-mobile{
+    position:absolute;   
+    top: 520px;
+    left: 230px;
 }
 input{
     height: 50px;
     width:300px;
     padding-left: 30px;
-} */
+}
+.u-btn{
+    height: 50px;
+    width:100px;
+    background-color:white;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left:460px;
+    top:-40px
+}

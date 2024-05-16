@@ -9,28 +9,38 @@
     width: 1920px;
 }
 .i-container{
-    background-color:aqua;
+    border: solid;
+    border-color: white;
     height: 600px;
-    width: 800px;
+    width: 500px;
     border-radius: 10px;
     position: relative;
     top: 100px;
     left:150px;
-    opacity: 0.3;
 }
-.uname{
+.pass{
     position:absolute;   
-    top: 450px;
-    left: 400px;
+    top: 550px;
+    left: 230px;
     
 }
 .gmail{
     position:absolute;   
-    top: 550px;
-    left: 400px;
+    top: 450px;
+    left: 230px;
 }
 input{
     height: 50px;
     width:300px;
     padding-left: 30px;
+}
+.i-btn{
+    height: 50px;
+    width:100px;
+    background-color:white;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left:460px;
+    top:-100px;
 }
